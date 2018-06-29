@@ -1,0 +1,29 @@
+{
+  "name": "rest-solo",
+  "version": "1.0.0",
+  "description": "A framework to create servers in nodejs using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwaniarya/rest-solo.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node"
+  ],
+  "author": "Ashwani Arya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwaniarya/rest-solo/issues"
+  },
+  "homepage": "https://github.com/ashwaniarya/rest-solo#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "yargs": "^11.0.0"
+  }
+}
